@@ -21,3 +21,15 @@ output_folder = 'outputFolder' # This will be used for splitting purposes
 
 output_file = "loot_output.csv" # This is the main file
 
+
+
+How to use, install pdfminer and prettytable,
+
+Create 2 directors /statements and /outputFolder
+
+Place your statements in statements folder
+
+
+Run main.py
+
+All data is saved into loot_output.csv
