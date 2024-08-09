@@ -38,7 +38,7 @@ def write_combined_data_to_csv(combined_data, file_path):
 # Specify the input folder and output folder
 input_folder = 'statements'
 output_folder = 'outputFolder'
-output_file = "aab3_output.csv"
+output_file = "loot_output.csv"
 
 
 statementSplix = statementSplitter(input_folder,output_folder)
